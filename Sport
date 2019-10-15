@@ -1,0 +1,72 @@
+<head>
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein1/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 1 | <a href="https://shikotv2019.blogspot.com">BEIN 1</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein2/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 2 | <a href="https://shikotv2019.blogspot.com">BEIN 2</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/320px-BeIN_Sports_3_HD.png" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein3/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 3 | <a href="https://shikotv2019.blogspot.com">BEIN 3</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein4/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 4 | <a href="https://shikotv2019.blogspot.com">BEIN 4</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein5/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 5 | <a href="https://shikotv2019.blogspot.com">BEIN 5</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="https://2.bp.blogspot.com/-T3f19tzOb1o/WO6WxO0PQMI/AAAAAAAAAvg/wKP6jal8iScYtpTtnhZxlzxUd_85_-qSwCLcB/s1600/6-1-ConvertImage.jpg" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein6/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 6 | <a href="https://shikotv2019.blogspot.com">BEIN 6</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://robistream.com/wp-content/uploads/2019/01/14112016-123412AM.gif" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein7/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 7 | <a href="https://shikotv2019.blogspot.com">BEIN 7</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein8/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 8 | <a href="https://shikotv2019.blogspot.com">BEIN 8</a></figcaption>
+</figure>
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein9/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 9 | <a href="https://shikotv2019.blogspot.com">BEIN 9</a></figcaption>
+</figure>
+
+<figure id="videoContainer">
+   <video id="video" controls preload="metadata" poster="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Bein_10.png" width="350" height="350">
+      <source src="https://yalla-bine.com/live/bein10/playlist.m3u8" width="69" height="60"> <type="video/mp4">
+     </video>
+   <figcaption>&copy; BEIN 10 | <a href="https://shikotv2019.blogspot.com">BEIN 10</a></figcaption>
+</figure>
+<head>
+
+
